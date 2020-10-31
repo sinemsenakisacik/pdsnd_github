@@ -1,8 +1,8 @@
 ### Date created
-31.10.2020
+31.10.2020 - Saturday
 
 ### Project Title
-Bikeshare Project with Git
+Bikeshare Project 
 
 ### Description
 Bikeshare project using gitbash
