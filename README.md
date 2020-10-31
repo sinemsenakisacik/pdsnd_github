@@ -2,13 +2,13 @@
 31.10.2020
 
 ### Project Title
-Bikeshare Project
+Bikeshare Project with Git
 
 ### Description
-Github project
+Bikeshare project using gitbash
 
 ### Files used
-bikeshare
+bikeshare 
 
 ### Credits
 Sinem Sena Kýsacýk
